@@ -12,7 +12,7 @@ img {
 header {
 	padding-top: 59px;
 	padding-bottom: 22px;
-	background-image: linear-gradient(-147deg, #9400D3  0%, #00FF00 100%);
+	background-image: linear-gradient(  #9400D3  0%, #00FF00 100%);
 	color: #fff 
 
 }
@@ -59,25 +59,27 @@ header small {
 /* Секция портфолио*/
 .portfolio {
 	background-color: #dddddd;
-	padding-top: 44px;
+	padding-top: 44px
 	padding-bottom: 71px;	
 }
 .portfolio-block {
 background-color: #fff;
+background-position: center ;
 padding-top: 29px;
 padding-bottom: 44px;
+ opacity: 0.0;
 }
+
 .portfolio-title {
-	text-transform: uppercase;
 	font-size: 18px;
-	color:#39558c;	
+	color:#B0E0E6;	
 	margin-bottom: 10px;
 }
 .portfolio-subtitle {
 	margin-top: 10px;
 	margin-bottom: 30px;
 	font-size:14px;
-	color: #7bb9ff;
+	color: #B0E0E6;
 
 
 }
@@ -91,25 +93,25 @@ padding-bottom: 44px;
 	padding-right: 50px;
 }
 .portfolio-block h3 {
-color: #072b6f;
+color: #B0E0E6;
 font-size: 18px;
 font-weight: 700;
 text-transform: uppercase;
 }
 .portfolio-block a{
-color: #072b6f;
+color: #B0E0E6;
 font-size: 14px;
 font-weight: 400;
 text-decoration: underline;
 }
-.portfolio-text p {
-color: #8f8f8f;
+.portfolio-text  {
+	color: #B0E0E6;
 font-size: 14px;
 font-weight: 400;
 }
 /* Оформление подвала*/
 footer {
-	background-image: linear-gradient(-147deg, #9400D3  0%, #00FF00 100%);
+	background-image: linear-gradient(  #00FF00  0%,  #9400D3  100%);
 	color: #fff;
 	padding-top: 60px;
 	padding-bottom: 110px;
