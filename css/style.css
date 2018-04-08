@@ -64,17 +64,14 @@ background-position: center ;
 	padding-bottom: 71px;	
 }
 .portfolio-block {
-
 background-image: url('space.jpg');
 background-position: center ;
-
 padding-top: 29px;
 padding-bottom: 44px;
  opacity: 0.0;
 }
 
 .portfolio-title {
-	text-transform: uppercase;
 	font-size: 18px;
 	color:#B0E0E6;	
 	margin-bottom: 10px;
