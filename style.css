@@ -1,4 +1,4 @@
-/* Здесь будут храниться стили нашего сайта */
+﻿/* Здесь будут храниться стили нашего сайта */
 
 body {
 	margin: 0;
@@ -58,13 +58,12 @@ header small {
 }	
 /* Секция портфолио*/
 .portfolio {
-	background-color: #dddddd;
-	padding-top: 44px
-	padding-bottom: 71px;	
+background-color: #dddddd;
+padding-top: 44px
+padding-bottom: 71px;	
 }
 .portfolio-block {
 background-color: #fff;
-background-position: center ;
 padding-top: 29px;
 padding-bottom: 44px;
  opacity: 0.0;
