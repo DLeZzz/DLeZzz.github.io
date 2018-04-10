@@ -58,13 +58,12 @@ header small {
 }	
 /* Секция портфолио*/
 .portfolio {
-background-image: url('space.jpg');
-background-position: center ;
+	background-color: #dddddd;
 	padding-top: 44px
 	padding-bottom: 71px;	
 }
 .portfolio-block {
-background-image: url('space.jpg');
+background-color: #fff;
 background-position: center ;
 padding-top: 29px;
 padding-bottom: 44px;
